@@ -1,0 +1,5 @@
+{
+  "name": "AI Mockup share DeJan",
+  "description": "An AI-powered web application that generates high-quality, photorealistic product mockups from a single uploaded image. Users can configure aspect ratio, background style, color variations, and the number of images to create advertising-ready visuals for their fashion and uniform products.",
+  "requestFramePermissions": []
+}
